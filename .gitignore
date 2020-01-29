@@ -1,1 +1,9 @@
+/.git
+/.github
+/CODE_OF_CONDUCT.md
+/CONTRIBUTING.md
+/LICENSE.txt
+/composer.json
+/composer.lock
+/vendor
 /web/sites/*/*settings*.php

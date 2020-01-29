@@ -1,0 +1,17 @@
+name: Apigee Monetization
+description: Apigee Edge Monetization Drupal integration
+package: Apigee
+
+type: module
+core: 8.x
+
+dependencies:
+  - apigee_edge:apigee_edge
+  - drupal:link
+
+php: "7.1"
+
+# Information added by Drupal.org packaging script on 2020-01-09
+version: '8.x-1.2'
+project: 'apigee_m10n'
+datestamp: 1578607115
