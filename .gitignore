@@ -1,9 +1,13 @@
+/.DS_Store
+.DS_Store
 /.git
 /.github
+/.lando.yml
 /CODE_OF_CONDUCT.md
 /CONTRIBUTING.md
 /LICENSE.txt
 /composer.json
 /composer.lock
+/config
 /vendor
 /web/sites/*/*settings*.php
